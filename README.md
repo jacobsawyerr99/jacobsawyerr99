@@ -1,7 +1,7 @@
 # Hi, my name is Jacob! 👋
 ## 🚀 About Me
 
-I am a soon-to-graduate computer science student with experience in full stack. What you'll find in my repositories are projects/ solutions I have worked on over the course of my time in university!
+Projects built that I thought were interesting!
     
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
